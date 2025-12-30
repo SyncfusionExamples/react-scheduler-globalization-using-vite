@@ -13,7 +13,7 @@ React version - 18.2.0
 Refer the following UG documenation for adding Scheduler React component using Vite in your application
 * [Getting Started of Syncfusion React Scheduler component using Vite ](https://ej2.syncfusion.com/react/documentation/getting-started/vite)
 
-## How to run this application?
+## How to run this application
 
 To run this application, you need to first clone the `react-scheduler-globalization-using-vite` repository and then navigate to its appropriate path where it has been located in your system.
 
@@ -24,7 +24,7 @@ git clone https://github.com/SyncfusionExamples/react-scheduler-globalization-us
 cd project
 ```
 
-## Installing
+## Installing packages
 
 Once done with downloading, next you need to install the necessay packages required to run this application locally. The `npm install` command will install all the needed JS2 packages into your current project and to do so, run the below command.
 
@@ -32,7 +32,7 @@ Once done with downloading, next you need to install the necessay packages requi
 npm install
 ```
 
-## Running
+## Running the application
 
 Finally, you can now use the below `npm` script to run the web application.
 
