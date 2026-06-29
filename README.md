@@ -1,17 +1,12 @@
-# react-scheduler-globalization-using-vite
+# React Scheduler with Globalization using Vite
 
-A comprehensive example demonstrating how to implement globalization features in a Syncfusion React Scheduler component using Vite as the build tool. This project showcases multi-language support and localization capabilities within the React Scheduler ecosystem.
-
-## Overview
-
-This repository contains a sample application that demonstrates the integration of Syncfusion React Scheduler with Vite, focusing on globalization and localization features. The project illustrates best practices for implementing multi-language support, cultural customization, and region-specific configurations in a modern React application built with Vite for optimal development experience and faster build times.
+This repository provides a comprehensive example of implementing globalization features in the [React Scheduler](https://www.syncfusion.com/react-components/react-scheduler) using Vite. It demonstrates integrating multi-language support, localization, and cultural configurations while building a modern React application optimized for fast development and performance, offering a practical guide for creating scalable and globally adaptable scheduling solutions.
 
 ## Prerequisites
 
 - Node version: 18.13.0 or higher
 - React version: 18.2.0 or higher
 - npm or yarn package manager
-- Basic understanding of React functional components and hooks
 
 ## Getting Started
 
